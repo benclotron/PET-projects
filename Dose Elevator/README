@@ -1,3 +1,5 @@
 Introduction: 
 
 This initial project aims to outline how I created a manual life/elevator for a dose calibrator using 3-D printed parts. 
+
+The dose cap and floor are not designed to work with two linear rods [AMAZON LINK: https://a.co/d/5zXkYiS] in addition there are two linear bearings [AMAZON LINK: https://a.co/d/jkSyat6] that fit inside the syringe holder part. To achieve motion the syringe holder is controlled via fishing line with a lure bob below the syringe holder to pull the elevator upwards. To ensure repeatability one 6 mm rigid shaft coupler is fixed to the bottom of one of the linear rails. This coupler will act as a brake and will not permit the syringe holder to move past it ensuring the syringe will not touch the bottom or get knocked free from the holder. 
