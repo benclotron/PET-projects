@@ -7,11 +7,15 @@ Line sterilization/flush requires an operator to manually inject large volume of
 
 File Directory
 
-For bill of materials and/or engineering drawings of the assembly go to BOM_specsheets. 
-IRL pictures has some pictures of the progress and final assembly.
-Old Versions is a part/STL graveyard of previous renditions of the assembly that were scrapped for one reason or another. 
-Part file is where you can find manipulatable .SLDPRT(s) of the designed parts along with the .SLDPRT(s) acquired from McMaster-Carr for the final assembly.
-STL file is where you can find the designed parts ready to be uploaded to a slicer for 3D printing.
+
+├── BOM_Specsheets/		# specification sheet and drawing for part traceability
+├── IRL Pictures/      # photos of printed parts
+├── mounting_bracket/  # optional mounting bracket (not up-to-date)
+├── Old Versions/      # 3D part files of previous versions
+├── Part File/         # 3D part files (.sldprt) 
+├── STL File/          # 3D part files (.STL)
+
+
 
 Skills Used
 
