@@ -1,6 +1,10 @@
+Project 2 - Dose Elevator
+
 Introduction: 
 
 This project describes a mechanical elevator for the reading and retrieving of radioactive samples from a CRC-77thr dose calibrator. 
+
+Procedure:
 
 Print the dose elevator cap, floor, and syringe holder. Insert two fixed alignment ball linear bearings into their respective holes. Fix the two linear motion shafts onto the dose elevator floor and set the clamping shaft collar to the desired height. Slide he syringe holder (with the two linear ball bearings already inserted to the part) onto the linear motion shafts. The part should fall freely under its own weight (if assembled correctly and everything is aligned). Add the elevator cap atop the two parallel linear motion shafts. The assembly will fit inside the CRC-77thr dose calibrator (well). Fishing line can be threaded through the assembly with a lure fixed below the syringe holder to serve as an anchor to move the part up the shafts and once tension is released the part's weight will lower it back to the fixed position. 
 
